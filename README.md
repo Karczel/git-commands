@@ -5,3 +5,7 @@
     ```
     git status
     ```
+2. Switch branches
+    ```
+    git checkout branchname
+    ```
