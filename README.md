@@ -12,3 +12,6 @@
     ```
     git diff -- filename
     ```
+   
+merged before tutorial updated
+So I'll redo in branch2
